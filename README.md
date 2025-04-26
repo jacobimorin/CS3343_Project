@@ -31,7 +31,7 @@ The only files that need to be configured are those within the *txt_files* direc
 
 ## ~predict.py
 
-- Predicts likelyhood of and individual movie's success
+- Predicts likelyhood of a movie's success using the three models
 - To configure movie info update *txt_files/movie_info.txt*
 
 ## ~calculate_scores.py
