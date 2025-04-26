@@ -1,0 +1,19 @@
+# Movie Info Example (# and empty lines are ignored)
+
+# Title: The Future Blockbuster
+# Budget: 150000000
+# Runtime: 132
+# Director_Score: 8.5
+# Cast_Score: 7.9
+# Release_Year: 2025
+# MPAA_Rating: PG-13
+# Genres: action, adventure, sci-fi
+
+Title:
+Budget:
+Runtime:
+Director_Score:
+Cast_Score:
+Release_Year:
+MPAA_Rating:
+Genres:
