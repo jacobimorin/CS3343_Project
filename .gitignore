@@ -1,0 +1,23 @@
+# Virtual environment
+virt/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local configurations
+.vscode/
+
+# Model files
+imdb/
+metascore/
+roi/
+
+.env
+.DS_Store
