@@ -17,7 +17,7 @@ build/
 # Model files
 imdb/
 metascore/
-roi/
+revenue/
 
 .env
 .DS_Store
